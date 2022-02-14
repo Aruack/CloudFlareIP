@@ -3,7 +3,7 @@
 CloudFlare-IP is a tool which aims to gather origin IP of the website protected by Cloudflare from the website's favicon icon using Shodan api
 
 ## Installation
-- `git clone https://github.com/Aruack/CloudFlare-IP.git`
+- `git clone https://github.com/Aruack/CloudFlareIP.git`
 
 - `pip3 install -r requirements.txt`
 
@@ -27,5 +27,4 @@ CloudFlare-IP is a tool which aims to gather origin IP of the website protected 
 * mmh3
 * socket
 
-## Example
-![Example usage](https://github.com/Aruack/CloudFlare-IP/blob/master/example.JPG "Example usage")
+
